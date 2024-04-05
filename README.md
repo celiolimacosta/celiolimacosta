@@ -1,4 +1,9 @@
-### Hi there 👋
+### Célio Lima Costa 😄
+
+<p>
+Comecei minha carreira como analista de suporte, depois me mudei para desenvolvimento usando Angular, Java e C#. No entanto, passei a maior parte do meu tempo trabalhando com SQL, o que despertou meu interesse em dados. Consequentemente, comecei a aprender Python com o objetivo de me tornar um cientista de dados.
+</p>
+
 
 <!--
 **celiolimacosta/celiolimacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
