@@ -20,4 +20,5 @@ Hoje, foco minha trajetória na área de **Dados**, unindo meu conhecimento téc
 ## 📂 Projetos em destaque
 - [BikeStores SQL Analysis](link_para_repositorio)
 
-📫 Conecte-se comigo no [LinkedIn](www.linkedin.com/in/celiolimacosta)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/celiolimacosta/)
+
