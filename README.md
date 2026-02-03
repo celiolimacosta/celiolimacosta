@@ -36,7 +36,8 @@ Hoje, foco minha trajetória na área de **Dados**, unindo meu conhecimento téc
 
 ## 📂 Projetos em destaque
 
-- [BikeStores SQL Analysis](https://github.com/seu-usuario/bike-stores-sql-project) – Análise de dados de vendas, estoque e clientes usando SQL  
+- [BikeStores SQL Analysis](https://github.com/seu-usuario/bike-stores-sql-project) – Análise de dados de vendas, estoque e clientes usando SQL
+- [Saudosismo no Futebol](https://github.com/seu-usuario/saudosismo-no-futebol-python-project) – Análise exploratória sobre a evolução do futebol ao longo das Copa
 
 ---
 
