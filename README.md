@@ -2,8 +2,7 @@
 
 Tenho 10 anos de experiência em tecnologia, com background em suporte e desenvolvimento.  
 Ao longo da carreira, me especializei em SQL, análise de dados e visualização com Power BI, além de já ter atuado em projetos que otimizaram sistemas para setores como varejo, jurídico e transportes.  
-
-Hoje, foco minha trajetória na área de **Dados**, unindo meu conhecimento técnico a análises que ajudam negócios a tomar decisões estratégicas.  
+Atualmente desenvolvo projetos analíticos usando SQL, Python e Power BI, explorando desde a estruturação dos dados até visualizações objetivas e indicadores práticos.
 
 ---
 
@@ -36,8 +35,8 @@ Hoje, foco minha trajetória na área de **Dados**, unindo meu conhecimento téc
 
 ## 📂 Projetos em destaque
 
-- [BikeStores SQL Analysis](https://github.com/seu-usuario/bike-stores-sql-project) – Análise de dados de vendas, estoque e clientes usando SQL
-- [Saudosismo no Futebol](https://github.com/seu-usuario/saudosismo-no-futebol-python-project) – Análise exploratória sobre a evolução do futebol ao longo das Copa
+- [BikeStores SQL Analysis](https://github.com/celiolimacosta/celiolimacosta-bike-stores-sql-project) – Análise de dados de vendas, estoque e clientes usando SQL
+- [Saudosismo no Futebol](https://github.com/celiolimacosta/celiolimacosta-saudosismo-no-futebol-python-project) – Análise exploratória sobre a evolução do futebol ao longo das Copa
 
 ---
 
